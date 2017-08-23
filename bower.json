@@ -1,0 +1,15 @@
+{
+  "name": "Mrphome Buyer's Guide",
+  "version": "0.0.1",
+  "authors": [
+    "Jo du Plessis <jo@joduplessis.com>"
+  ],
+  "description": "Buyer's Guide content management app for Mrphome",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "less": "~2.5.1",
+    "summernote": "~0.6.16"
+  }
+}
